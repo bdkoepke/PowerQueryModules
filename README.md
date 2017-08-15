@@ -6,7 +6,7 @@ Assembly location: C:\Program Files\Microsoft Power BI Desktop\bin\Microsoft.Mas
 
 Contents of the modules:
 
-## Module.List.m
+## [Module.List.pq](Module.List.pq)
   * List.NonNullCount
   * List.MatchesAll
   * List.MatchesAny
@@ -18,7 +18,7 @@ Contents of the modules:
   * List.RemoveFirstN
   * ContainsTextWithin
 
-## Module.Date.m
+## [Module.Date.pq](Module.Date.pq)
   * Date.IsInPreviousDay 
   * Date.IsInPreviousNDays 
   * Date.IsInCurrentDay
@@ -66,7 +66,7 @@ Contents of the modules:
   * StartOfMinute
   * StartOfSecond
   
-## Module.SharePoint15.m
+## [Module.SharePoint15.pq](Module.SharePoint15.pq)
   * SharePoint15.Tables
   * SharePoint15.Contents
   * SharePoint15.Files
@@ -89,15 +89,15 @@ Contents of the modules:
   * GetParentFolder
   * ToNavigationTable
   
-## Module.SqlExpression.m
+## [Module.SqlExpression.pq](Module.SqlExpression.pq)
   * SqlExpression.SchemaFrom
   
-## Module.Text.m
+## [Module.Text.pq](Module.Text.pq)
   * Text.Format
   * Text.FormatGetPlaceholders
   * Text.FormatToText
   
-## Module.Table.m
+## [Module.Table.pq](Module.Table.pq)
   * ColumnsSelector.CreateColumnsList
   * ColumnsSelector.CreateListKeySelector
   * TableColumnTransformOperations.CreateTransformOperationsList
